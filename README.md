@@ -1,5 +1,8 @@
 
-# Production‑ready e‑commerce backend — advanced dashboard and analytics, authentication, orders, payments, email, and more
+# Freemium Version
+
+
+Production‑ready e‑commerce backend — advanced dashboard and analytics, authentication, orders, payments, email, and more
 You can get it version here:
 	https://devyay.gumroad.com/l/nexus-backend-commerce
 A battle‑tested, modular Node.js + Express + MongoDB backend for e‑commerce applications.  
