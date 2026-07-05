@@ -2,10 +2,15 @@
 # Freemium Version
 
 
-Production‑ready e‑commerce backend — advanced dashboard and analytics, authentication, orders, payments, email, and more.
+Nexus production‑ready e‑commerce backend:
+ - advanced dashboard and analytics,
+ - one month email support,
+ - full Swagger documentation,
+ - smooth payments with webhook & robust retry logic,
+ - email services, and more.
 You can get the premium version here:
-	[Freemium Version](https://devyay.gumroad.com/l/nexus-backend-commerce)
-A battle‑tested, modular Node.js + Express + MongoDB backend for e‑commerce applications.  
+	[Premium Version](https://devyay.gumroad.com/l/nexus-backend-commerce)
+A battle‑tested, modular Node.js + Express + MongoDB backend for e‑commerce applications.
 Built for teams who need to ship fast without sacrificing scalability or security.
 
 
